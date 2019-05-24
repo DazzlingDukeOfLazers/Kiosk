@@ -1,0 +1,14 @@
+{
+  "name": "kiosk",
+  "version": "1.0.0",
+  "description": "A touchscreen kiosk framework",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Daniel D Lindmark",
+  "license": "MIT",
+  "dependencies": {
+    "materialize-css": "^1.0.0-rc.2"
+  }
+}
